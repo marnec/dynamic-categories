@@ -24,6 +24,7 @@
 2. Start the project:
     - If you have `make` installed: `make start`
     - Otherwise `docker compose --env-file dev.env up`
+    - First startup may take a while since db migrations will create and populate tables
 
 3. Visit:
    - `http://localhost:4200` for UI
