@@ -24,3 +24,8 @@
 2. Start the project:
     - If you have `make` installed: `make start`
     - Otherwise `docker compose --env-file dev.env up`
+
+3. Visit:
+   - `http://localhost:4200` for UI
+   - `http://localhost:3000` for REST API
+   - `http://localhost:3000/doc` for Swagger UI
