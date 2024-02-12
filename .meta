@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "git@github.com/nem-attendance-tracker-backend.git",
+    "frontend": "git@github.com/nem-attendance-tracker-frontend.git"
+  }
+}
